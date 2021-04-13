@@ -1,2 +1,14 @@
-"# hi" 
-"# hi" 
+123.py
+
+name=input("please input:")
+print('hi', name)
+
+===================================================
+
+temperature_conversion.py
+
+fahrenheit = float(input('請輸入華氏溫度：'))
+celsius = (fahrenheit*1.8)+32
+print('攝氏溫度為：', celsius, '度')
+
+===================================================
